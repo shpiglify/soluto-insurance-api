@@ -1,0 +1,26 @@
+{
+  "name": "soluto-insurance-api",
+  "version": "1.0.0",
+  "description": "a simple insurace services query api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpiglify/soluto-insurance-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpiglify/soluto-insurance-api/issues"
+  },
+  "homepage": "https://github.com/shpiglify/soluto-insurance-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
